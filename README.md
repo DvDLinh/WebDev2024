@@ -10,7 +10,7 @@ Students are expected to:
 Student Info
 =======================
 
-* Name: Nguyễn Khánh Duy
-* ID: BA12-063
+* Name: Dao Viet Linh
+* ID: BI12-244
 * Group ID: 18
 * Project Name: Online Learning Platform
